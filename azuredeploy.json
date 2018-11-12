@@ -42,8 +42,12 @@
     
     "diskSizeGB": {
       "type": "int",
-      "defaultValue": 1023,
+      "defaultValue": 150,
       "allowedValues": [
+        150,
+        200,
+        300,
+        500,
         1023,
         2047,
         4095
