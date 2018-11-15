@@ -322,7 +322,7 @@
 	        "input": {
 	            "lun": "[copyIndex('dataDisks')]",
 	            "createOption": "Empty",
-	            "diskSizeGB": "1023"
+	            "diskSizeGB": "150"
 	        }
 	      }]
         },
