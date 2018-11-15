@@ -18,6 +18,7 @@
       "type": "int",
       "defaultValue": 2,
       "allowedValues": [
+        1,
         2,
         4,
         6,
@@ -31,6 +32,7 @@
       "type": "int",
       "defaultValue": 2,
       "allowedValues": [
+        1,
         2,
         3,
         4
